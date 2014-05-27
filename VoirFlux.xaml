@@ -1,0 +1,57 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="RSSSUCKER.VoirFlux"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" TextAlignment="Center" Text="RSS SUCKER" Style="{StaticResource PhoneTextNormalStyle}" Foreground="#FFFFA200"/>
+            <TextBlock x:Name="PageTitle" TextAlignment="Center" Text="Mes flux" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="#FFFFB900"/>
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="Chargement" HorizontalAlignment="Center" Foreground="Red" FontSize="20" FontWeight="Bold"  />
+            <ListBox x:Name="ListBoxFlux" ItemsSource="{Binding ListeFlux}" SelectionChanged="ListBox_SelectionChanged" Margin="10,0,-10,27" Grid.RowSpan="2">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="50" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto" />
+                                <RowDefinition Height="auto" />
+                                <RowDefinition Height="auto" />
+                            </Grid.RowDefinitions>
+                            <Image Source="{Binding UrlImage}" Height="50" Width="50" />
+                            <TextBlock Grid.Column="1" Foreground="Orange" Text="{Binding Titre}" TextWrapping="Wrap" Style="{StaticResource PhoneTextTitle3Style}" />
+                            <TextBlock Grid.ColumnSpan="2" Foreground="Orange" Grid.Row="1" Text="{Binding Description}" TextWrapping="Wrap" Margin="0 0 0 20" FontStyle="Italic" />
+                            <Line X1="0" X2="480" Y1="0" Y2="0" StrokeThickness="5" Stroke="Orange" Grid.Row="2" Grid.ColumnSpan="2" />
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

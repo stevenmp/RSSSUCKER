@@ -1,0 +1,31 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="RSSSUCKER.VoirBillet"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" TextAlignment="Center" Style="{StaticResource PhoneTextNormalStyle}" Text="RSS Sucker" FontFamily="Gungsuh" Foreground="Black" Height="24"/>
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <phone:WebBrowser x:Name="PageBillet" NavigationFailed="PageBillet_NavigationFailed" />
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

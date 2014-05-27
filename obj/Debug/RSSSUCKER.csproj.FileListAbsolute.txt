@@ -1,0 +1,71 @@
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\RSSSUCKER.dll
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\RSSSUCKER.pdb
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\AppManifest.xaml
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\RSSSUCKER_Debug_AnyCPU.xap
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\App.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\MainPage.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.g.resources
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.Resources.AppResources.resources
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.dll
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.pdb
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\XapCacheFile.xml
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.csprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\AjouterFlux.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\VoirFlux.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\VoirBillet.g.cs
+c:\users\raphael\documents\visual studio 2013\Projects\RSSSUCKER\RSSSUCKER\obj\Debug\VoirFluxPivot.g.cs
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\RSSSUCKER\RSSSUCKER\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.csprojResolveAssemblyReference.cache
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\App.g.cs
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\AjouterFlux.g.cs
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\MainPage.g.cs
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\VoirBillet.g.cs
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\VoirFlux.g.cs
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\VoirFluxPivot.g.cs
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.g.resources
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.Resources.AppResources.resources
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.csproj.GenerateResource.Cache
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\RSSSUCKER.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\RSSSUCKER.pdb
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\AppManifest.xaml
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\RSSSUCKER_Debug_AnyCPU.xap
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\RSSSUCKER.pdb
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\obj\Debug\XapCacheFile.xml
+C:\Users\Sof\Desktop\RSSSUCKER\RSSSUCKER\Bin\Debug\Feed_Icon_Bl-Or.png
